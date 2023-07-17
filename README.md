@@ -1,7 +1,7 @@
 # YABDialogue
-The repository that holds the code for the dialogue functionality for the Unreal Engine game, Your Average Bear.
+This repository holds the code for thet partial refactoring of the dialogue system that I worked on for my capstone game, Your Average Bear (https://store.steampowered.com/app/2349870/Your_Average_Bear/).
 
-This is just a partial refactoring of the dialogue system that I worked on for my capstone game, Your Average Bear (https://store.steampowered.com/app/2349870/Your_Average_Bear/).
+This repository is not so average; due to Unreal Engine holding the source code under one main folder, I cannot create a repository for it (since it contains work not done by me). Instead, I decided to separate out my current work into separate folders so I could put them on github.
 
 It was originally fully done in Blueprints, but I figured it would be a good lesson in C++ to refactor it. Most of the work I did on the game was with UI and Widgets, and as
 I found out while refactoring, handling Widgets in C++ is a bit more cumbersome than handling them in Blueprints.

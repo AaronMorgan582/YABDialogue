@@ -1,5 +1,5 @@
 # YABDialogue
-This repository holds the code for thet partial refactoring of the dialogue system that I worked on for my capstone game, Your Average Bear (https://store.steampowered.com/app/2349870/Your_Average_Bear/).
+This repository holds the code for the partial refactoring of the dialogue system that I worked on for my capstone game, Your Average Bear (https://store.steampowered.com/app/2349870/Your_Average_Bear/).
 
 This repository is not so average; due to Unreal Engine holding the source code under one main folder, I cannot create a repository for it (since it contains work not done by me). Instead, I decided to separate out my current work into separate folders so I could put them on github.
 
